@@ -5,7 +5,8 @@
   "main": "./ts/board.ts",
   "scripts": {
     "build": "tsc",
-    "dev": "nodemon"
+    "dev": "nodemon",
+    "board": "node ./ts/board.js"
   },
   "keywords": [],
   "author": "",
