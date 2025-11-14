@@ -1,0 +1,20 @@
+{
+  "name": "assign_two",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./ts/board.ts",
+  "scripts": {
+    "build": "tsc",
+    "dev": "nodemon"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  },
+  "dependencies": {
+    "typescript": "^5.9.3"
+  }
+}
